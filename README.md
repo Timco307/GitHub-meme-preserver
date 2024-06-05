@@ -12,6 +12,8 @@ Please check that the repository does not have the meme that you're trying to ad
 
 4. Rename the file of the meme name accordingly you need to rename the meme as the actual meme if the meme has a name rename the PNG or video file to that but remember do not delete the file extension but if the meme does not have a name then you can name it your self appropriate to the meme!
 
+5. How to see the date the video was uploaded on YouTube use this url [https://ytlarge.com/youtube/video-data-viewer] and if you want to download a mp3,mp4,wav and some more go to this url [https://tuberipper.com/23/save/mp4]
+
 If you do not know the artist or the date
 If you have tried very hard to find the artist or the date and you can't find either one of those there will be an unknown artist folder and inside of every artist folder there will be an unknown date folder too but if you don't know the artist just go to the unknown artist folder and also inside the unknown artist folder there's also gonna be an unknown date just in case I'm telling you this if you didn't know that!
 
