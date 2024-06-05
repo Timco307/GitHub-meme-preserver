@@ -17,4 +17,6 @@ Please check that the repository does not have the meme that you're trying to ad
 If you do not know the artist or the date
 If you have tried very hard to find the artist or the date and you can't find either one of those there will be an unknown artist folder and inside of every artist folder there will be an unknown date folder too but if you don't know the artist just go to the unknown artist folder and also inside the unknown artist folder there's also gonna be an unknown date just in case I'm telling you this if you didn't know that!
 
+If you want you can add a little info and this is how you do it. You put the same name that you have for the meme but then you add .txt which is a text document and then you add a little like description of the meme or how it originated and some other stuff but you don't have to do this this is OPTIONAL but don't put the description in the name of the file because a lot of people messed that up!!!
+
 If you have a big video file go to your desktop and download GitHub desktop then make a fork of our preserver and put in all of the things above then put in your video file or whatever and then upload it to your fork then go to the website and then Commit a change to our main gethub meme preserver!
