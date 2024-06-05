@@ -6,7 +6,7 @@ Please check that the repository does not have the meme that you're trying to ad
 
 1. Make a foler for the name put in the year that the meme was created not when is popular! if there's already a year that you are going to make like 2019 and it's already there do not make a new one!!!
 
-2. Go into your folder then make a second folder and for the name put in the artists name that made the meme so their username and then put a platform thing like discord would be DN Facebook would be FB YouTube would be YT and if you know the real name put a slash and then the real name example ( timmy394@DN\Timmy turner ) make sure that the slash is a forward slash or else gethub will think that you're trying to make a folder which you are trying but it's going to make two folders and some other stuff which is weird!
+2. Go into your folder then make a second folder and for the name put in the artists name that made the meme so their username and then put @ then there platform thing like discord would be DN Facebook would be FB YouTube would be YT and Twitter would be TW or X and you cN do the same for other media too! If you know the real name put a slash and then the real name example ( timmy394@DN\Timmy turner ) make sure that the slash is a forward slash or else gethub will think that you're trying to make a folder which you are trying but it's going to make two folders and some other stuff which is weird!
 
 3. Then after you find the person then go onto that folder and add your meme PNG,JPEG video file or whatever
 
